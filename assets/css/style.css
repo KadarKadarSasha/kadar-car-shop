@@ -1,0 +1,55 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  width: 80%;
+  margin-left: 100px;
+}
+
+nav ul {
+  list-style-type: none;
+  display: flex;
+  gap: 30px;
+  padding: 0;
+}
+
+header {
+  margin-left: 100px;
+}
+
+.car-section p {
+  width: 60%;
+}
+
+.car-section li {
+  width: 60%;
+}
+
+.car-section {
+  margin-bottom: 60px;
+}
+
+.ford-title,
+.bmw-title,
+.audi-title {
+  display: flex;
+  align-items: center;
+}
+
+h1 {
+  color: rgb(218, 175, 122);
+}
+
+.car-logo {
+  margin-right: 30px;
+}
+
+.footer-section {
+  display: flex;
+  margin-left: 100px;
+  align-items: center;
+  margin-right: 20px;
+  width: 60%;
+  gap: 20px;
+}
