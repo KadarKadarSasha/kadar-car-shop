@@ -1,0 +1,72 @@
+* {
+  box-sizing: border-box;
+}
+
+h3 {
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2 {
+  color: rgb(59, 59, 146);
+  font-family: sans-serif;
+}
+
+address {
+  font-style: normal;
+}
+
+address a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  margin-right: 20px;
+}
+
+header .job-title {
+  font-size: 20px;
+}
+
+.short-description {
+  width: 40%;
+}
+
+hr {
+  height: 2px;
+  width: 40%;
+  margin-left: 0;
+}
+
+li {
+  max-width: 500px;
+  margin-bottom: 5px;
+}
+
+.experience article {
+  margin-bottom: 16px;
+}
+
+ul {
+  padding-left: 16px;
+}
+
+.entry {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 16px;
+}
+
+.entry-years,
+.entry aside {
+  flex: 0 0 150px;
+}
+
+.entry-description {
+  flex: 1;
+}
+
+.education ul,
+.skills ul {
+  list-style: none;
+  padding-left: 0;
+}
