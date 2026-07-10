@@ -70,7 +70,8 @@ ul {
 }
 
 .education ul,
-.skills ul {
+.skills ul,
+header li {
   list-style: none;
   padding-left: 0;
 }

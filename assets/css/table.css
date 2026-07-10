@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+li {
+  list-style: none;
+}
+
+table {
+  border: 2px solid teal;
+}
+
+th,
+td {
+  border: 2px solid teal;
+  padding: 3px 3px 3px 3px;
+  text-align: center;
+  font-weight: bold;
+}
