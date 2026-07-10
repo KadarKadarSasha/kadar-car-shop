@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+form {
+  width: 400px;
+}
+.gender-text {
+  margin: 3px 0 3px 36px;
+}
+.color-text {
+  margin: 3px 0 3px 0;
+}
+
+.drive-experience-years {
+  margin: 5px 0 5px 0;
+}
+
+.address-label {
+  display: flex;
+  align-items: flex-start;
+}
+
+.price-info {
+  display: flex;
+  align-items: center;
+}
+
+button {
+  margin: 10px 0 0 0;
+}
