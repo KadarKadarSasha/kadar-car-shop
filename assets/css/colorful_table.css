@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+
+table {
+  border: 3px solid red;
+}
+
+thead #column > th {
+  background-color: rgb(245, 224, 196);
+}
+
+th,
+td {
+  padding: 0 15px 0 15px;
+  text-align: center;
+  border: 2px solid blue;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: rgb(184, 182, 185);
+}
+
+tbody tr:nth-child(even) {
+  background-color: rgb(167, 144, 44);
+}
+
+th:first-child,
+td:first-child {
+  background-color: rgb(63, 236, 236);
+}
+
+#footer > td {
+  background-color: rgb(253, 171, 171);
+}
