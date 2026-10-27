@@ -6,8 +6,16 @@ li {
   list-style: none;
 }
 
+h1 {
+  font-size: 20px;
+  margin-bottom: 2px;
+  text-align: center;
+  font-weight: 300;
+}
+
 table {
   border: 2px solid teal;
+  margin: 0 auto;
 }
 
 th,
